@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/djankies/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/djankies/leetcode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/djankies/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1046-max-consecutive-ones-iii](https://github.com/djankies/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/djankies/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/djankies/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/djankies/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/djankies/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
