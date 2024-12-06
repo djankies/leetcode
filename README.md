@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/djankies/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/djankies/leetcode/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/djankies/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/djankies/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/djankies/leetcode/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/djankies/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2427-first-letter-to-appear-twice](https://github.com/djankies/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/djankies/leetcode/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/djankies/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -30,5 +33,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/djankies/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2427-first-letter-to-appear-twice](https://github.com/djankies/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/djankies/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/djankies/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/djankies/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/djankies/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
