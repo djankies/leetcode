@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/djankies/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/djankies/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/djankies/leetcode/tree/master/0525-contiguous-array) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/djankies/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2427-first-letter-to-appear-twice](https://github.com/djankies/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/djankies/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/djankies/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/djankies/leetcode/tree/master/0344-reverse-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/djankies/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2427-first-letter-to-appear-twice](https://github.com/djankies/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
 |  |
