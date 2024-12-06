@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/djankies/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/djankies/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/djankies/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/djankies/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/djankies/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/djankies/leetcode/tree/master/0217-contains-duplicate) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/djankies/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/djankies/leetcode/tree/master/0027-remove-element) |
 ## Binary Search
 |  |
 | ------- |
