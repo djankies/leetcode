@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/djankies/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/djankies/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/djankies/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/djankies/leetcode/tree/master/0383-ransom-note) |
 | [0525-contiguous-array](https://github.com/djankies/leetcode/tree/master/0525-contiguous-array) |
 | [1098-largest-unique-number](https://github.com/djankies/leetcode/tree/master/1098-largest-unique-number) |
 | [1297-maximum-number-of-balloons](https://github.com/djankies/leetcode/tree/master/1297-maximum-number-of-balloons) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/djankies/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/djankies/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/djankies/leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/djankies/leetcode/tree/master/0383-ransom-note) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/djankies/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1297-maximum-number-of-balloons](https://github.com/djankies/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/djankies/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/djankies/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/djankies/leetcode/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/djankies/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/djankies/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/djankies/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
