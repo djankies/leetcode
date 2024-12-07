@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/djankies/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/djankies/leetcode/tree/master/0383-ransom-note) |
 | [0525-contiguous-array](https://github.com/djankies/leetcode/tree/master/0525-contiguous-array) |
+| [0782-jewels-and-stones](https://github.com/djankies/leetcode/tree/master/0782-jewels-and-stones) |
 | [1098-largest-unique-number](https://github.com/djankies/leetcode/tree/master/1098-largest-unique-number) |
 | [1297-maximum-number-of-balloons](https://github.com/djankies/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/djankies/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/djankies/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/djankies/leetcode/tree/master/0383-ransom-note) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/djankies/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0782-jewels-and-stones](https://github.com/djankies/leetcode/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/djankies/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/djankies/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/djankies/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
