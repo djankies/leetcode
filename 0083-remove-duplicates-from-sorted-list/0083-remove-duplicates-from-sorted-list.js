@@ -11,14 +11,12 @@
  */
 var deleteDuplicates = function(head) {
     if (!head) return null;
-    const seen = new Set([head.val]);
     let ptr = head;
     
     while (ptr.next) {
-        if (seen.has(ptr.next.val)) {
+        if (ptr.val === ptr.next.val) {
             ptr.next = ptr.next.next;
         } else {
-            seen.add(ptr.next.val);
             ptr = ptr.next
         }
     }
