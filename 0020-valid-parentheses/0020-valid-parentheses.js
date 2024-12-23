@@ -11,17 +11,16 @@ var isValid = function(s) {
         '{': '}',
     }
 
-    const stack = [s[0]];
+    const stack = [];
 
-    for (let i = 1; i < s.length; i++) {
-        if (matches[s[i]]) {
-            stack.push(s[i])
+    for (const char of s) {
+        if (matches[char]) {
+            stack.push(char)
         } else {
             const opening = stack.pop();
-            if (matches[opening] !== s[i]) return false;
+            if (matches[opening] !== char) return false;
         }
     }
 
-    if (stack.length === 0) return true;
-    return false;
+    return stack.length === 0;
 };
