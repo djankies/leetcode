@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/djankies/leetcode/tree/master/0383-ransom-note) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/djankies/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/djankies/leetcode/tree/master/0782-jewels-and-stones) |
+| [0874-backspace-string-compare](https://github.com/djankies/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/djankies/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/djankies/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/djankies/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/djankies/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/djankies/leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/djankies/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0874-backspace-string-compare](https://github.com/djankies/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/djankies/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/djankies/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/djankies/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -178,9 +180,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/djankies/leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/djankies/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/djankies/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/djankies/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/djankies/leetcode/tree/master/0234-palindrome-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/djankies/leetcode/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
