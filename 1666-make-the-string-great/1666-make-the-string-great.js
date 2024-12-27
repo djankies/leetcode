@@ -7,10 +7,9 @@ var makeGood = function(s) {
     const stack = [];
     
     for (const char of s) {
-        const first = stack[stack.length - 1];
-        if (first !== char 
-            && (first?.toUpperCase() === char 
-            || first?.toUpperCase() === char.toUpperCase())) {
+        const lastIndex = stack.length - 1;
+        const first = stack[lastIndex];
+        if (first && first.toUpperCase() === char.toUpperCase() && first !== char) {
             stack.pop();
         } else {
             stack.push(char);
