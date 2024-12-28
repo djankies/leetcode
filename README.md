@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/djankies/leetcode/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/djankies/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/djankies/leetcode/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/djankies/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/djankies/leetcode/tree/master/0268-missing-number) |
 | [0346-moving-average-from-data-stream](https://github.com/djankies/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/djankies/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/djankies/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/djankies/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/djankies/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/djankies/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/djankies/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/djankies/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/djankies/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/djankies/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/djankies/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0346-moving-average-from-data-stream](https://github.com/djankies/leetcode/tree/master/0346-moving-average-from-data-stream) |
 ## Data Stream
 |  |
@@ -213,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/djankies/leetcode/tree/master/0739-daily-temperatures) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/djankies/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
