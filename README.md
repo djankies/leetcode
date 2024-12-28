@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/djankies/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/djankies/leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/djankies/leetcode/tree/master/0874-backspace-string-compare) |
+| [0937-online-stock-span](https://github.com/djankies/leetcode/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/djankies/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/djankies/leetcode/tree/master/1666-make-the-string-great) |
 ## Recursion
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/djankies/leetcode/tree/master/0346-moving-average-from-data-stream) |
+| [0937-online-stock-span](https://github.com/djankies/leetcode/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -216,11 +218,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/djankies/leetcode/tree/master/0346-moving-average-from-data-stream) |
+| [0937-online-stock-span](https://github.com/djankies/leetcode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/djankies/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/djankies/leetcode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/djankies/leetcode/tree/master/0937-online-stock-span) |
 ## Monotonic Queue
 |  |
 | ------- |
