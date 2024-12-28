@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/djankies/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/djankies/leetcode/tree/master/0071-simplify-path) |
+| [0232-implement-queue-using-stacks](https://github.com/djankies/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/djankies/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/djankies/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/djankies/leetcode/tree/master/0739-daily-temperatures) |
@@ -210,11 +211,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/djankies/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0346-moving-average-from-data-stream](https://github.com/djankies/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0937-online-stock-span](https://github.com/djankies/leetcode/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/djankies/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/djankies/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0346-moving-average-from-data-stream](https://github.com/djankies/leetcode/tree/master/0346-moving-average-from-data-stream) |
 ## Data Stream
