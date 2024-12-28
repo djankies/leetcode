@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/djankies/leetcode/tree/master/0268-missing-number) |
 | [0346-moving-average-from-data-stream](https://github.com/djankies/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/djankies/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/djankies/leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/djankies/leetcode/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/djankies/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/djankies/leetcode/tree/master/0739-daily-temperatures) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/djankies/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/djankies/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/djankies/leetcode/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/djankies/leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/djankies/leetcode/tree/master/0525-contiguous-array) |
 | [0782-jewels-and-stones](https://github.com/djankies/leetcode/tree/master/0782-jewels-and-stones) |
 | [1098-largest-unique-number](https://github.com/djankies/leetcode/tree/master/1098-largest-unique-number) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/djankies/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/djankies/leetcode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/djankies/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/djankies/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/djankies/leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/djankies/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/djankies/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/djankies/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/djankies/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Queue
 |  |
