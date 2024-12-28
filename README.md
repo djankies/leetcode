@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/djankies/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/djankies/leetcode/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/djankies/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/djankies/leetcode/tree/master/0739-daily-temperatures) |
 | [1019-squares-of-a-sorted-array](https://github.com/djankies/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/djankies/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1098-largest-unique-number](https://github.com/djankies/leetcode/tree/master/1098-largest-unique-number) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/djankies/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/djankies/leetcode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/djankies/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/djankies/leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/djankies/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/djankies/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/djankies/leetcode/tree/master/1666-make-the-string-great) |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/djankies/leetcode/tree/master/0346-moving-average-from-data-stream) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/djankies/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
