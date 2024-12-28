@@ -3,25 +3,16 @@
  * @param {number} k
  * @return {number[]}
  */
-var maxSlidingWindow = function(nums, k) {
-    const deque = [];
-    const result = [];
-
-    for (let i = 0; i < nums.length; i++) {
-        if (deque.length && deque[0] < i - k + 1) {
-            deque.shift();
-        }
-
-        while (deque.length && nums[deque[deque.length - 1]] < nums[i]) {
-            deque.pop();
-        }
-
-        deque.push(i);
-
-        if (i >= k - 1) {
-            result.push(nums[deque[0]]);
-        }
+function maxSlidingWindow(nums, k) {
+    const result = new Int16Array(nums.length - k + 1);
+    const deque = [0];
+    
+    for (let i = 0, left = 0, right = 0; right < nums.length; right++) {
+        while(deque[left] < right - k + 1) left++;
+        while(left < deque.length && nums[deque.at(-1)] < nums[right]) deque.pop();
+        deque.push(right)
+        if (right >= k - 1) result[i++] = nums[deque[left]]
     }
 
     return result;
-};
+}
