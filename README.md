@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/djankies/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/djankies/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/djankies/leetcode/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/djankies/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/djankies/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/djankies/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/djankies/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/djankies/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/djankies/leetcode/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/djankies/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/djankies/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/djankies/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/djankies/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/djankies/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/djankies/leetcode/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/djankies/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/djankies/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/djankies/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
