@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/djankies/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/djankies/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/djankies/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/djankies/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/djankies/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/djankies/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/djankies/leetcode/tree/master/0975-range-sum-of-bst) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/djankies/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/djankies/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/djankies/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/djankies/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/djankies/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/djankies/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/djankies/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -293,9 +295,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/djankies/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/djankies/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/djankies/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/djankies/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
