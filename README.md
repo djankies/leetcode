@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/djankies/leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/djankies/leetcode/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/djankies/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/djankies/leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/djankies/leetcode/tree/master/0739-daily-temperatures) |
 | [1019-squares-of-a-sorted-array](https://github.com/djankies/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/djankies/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/djankies/leetcode/tree/master/0036-valid-sudoku) |
+| [0695-max-area-of-island](https://github.com/djankies/leetcode/tree/master/0695-max-area-of-island) |
 ## Math
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/djankies/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/djankies/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/djankies/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/djankies/leetcode/tree/master/0695-max-area-of-island) |
 | [0975-range-sum-of-bst](https://github.com/djankies/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/djankies/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/djankies/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/djankies/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/djankies/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/djankies/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0695-max-area-of-island](https://github.com/djankies/leetcode/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/djankies/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/djankies/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/djankies/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0695-max-area-of-island](https://github.com/djankies/leetcode/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/djankies/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
