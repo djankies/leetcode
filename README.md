@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-k-radius-subarray-averages](https://github.com/djankies/leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2331-intersection-of-multiple-arrays](https://github.com/djankies/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/djankies/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/djankies/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/djankies/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/djankies/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2427-first-letter-to-appear-twice](https://github.com/djankies/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/djankies/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## String
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/djankies/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/djankies/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/djankies/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/djankies/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/djankies/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/djankies/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/djankies/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/djankies/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/djankies/leetcode/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/djankies/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/djankies/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/djankies/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -302,9 +307,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/djankies/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0695-max-area-of-island](https://github.com/djankies/leetcode/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/djankies/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/djankies/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Graph
 |  |
 | ------- |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/djankies/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/djankies/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/djankies/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 <!---LeetCode Topics End-->
