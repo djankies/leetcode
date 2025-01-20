@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/djankies/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/djankies/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/djankies/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/djankies/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2211-k-radius-subarray-averages](https://github.com/djankies/leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2331-intersection-of-multiple-arrays](https://github.com/djankies/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/djankies/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/djankies/leetcode/tree/master/0036-valid-sudoku) |
 | [0695-max-area-of-island](https://github.com/djankies/leetcode/tree/master/0695-max-area-of-island) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/djankies/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Math
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/djankies/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0695-max-area-of-island](https://github.com/djankies/leetcode/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/djankies/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/djankies/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/djankies/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/djankies/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Binary Tree
