@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/djankies/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/djankies/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/djankies/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/djankies/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1098-largest-unique-number](https://github.com/djankies/leetcode/tree/master/1098-largest-unique-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/djankies/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2331-intersection-of-multiple-arrays](https://github.com/djankies/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/djankies/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/djankies/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/djankies/leetcode/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/djankies/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/djankies/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/djankies/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/djankies/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/djankies/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/djankies/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -317,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/djankies/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/djankies/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/djankies/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+## Greedy
+|  |
+| ------- |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/djankies/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 <!---LeetCode Topics End-->
